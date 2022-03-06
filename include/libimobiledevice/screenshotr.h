@@ -32,7 +32,7 @@ extern "C" {
 #include <libimobiledevice/libimobiledevice.h>
 #include <libimobiledevice/lockdown.h>
 
-#define SCREENSHOTR_SERVICE_NAME "com.apple.mobile.screenshotr"
+#define SCREENSHOTR_SERVICE_NAME "com.apple.mobile.debug_image_mount"
 
 /** Error Codes */
 typedef enum {
